@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LOGIN DEMO</string>
+    <string name="LOGIN">LOGIN HERE ^_^</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Button">Button</string>
+
+</resources>
